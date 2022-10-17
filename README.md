@@ -16,6 +16,7 @@ All manufacturing lots:
 <img width="344" alt="Total Summary" src="https://user-images.githubusercontent.com/107484694/196121789-56cb5ecf-cb59-4238-a798-6791bac25f59.png">
 
 Individual lots:
+
 <img width="498" alt="Lot Summary" src="https://user-images.githubusercontent.com/107484694/196121857-b49bc5ff-178e-405c-8d7a-2adef2b837b4.png">
 
 The current manufacturing data meets the design specification for all manufacturing lots in total as the variance isi 62.29 PSI which is within the 100 PSI variance requirement. 
