@@ -1,6 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
+
 <img width="511" alt="MechaCar MPG Linear Reg" src="https://user-images.githubusercontent.com/107484694/196108515-2c42366b-c19c-40f5-a40c-675cf6320c21.png">
 
 Vehicle length and ground clearance are statistically unlikely to provide random amounts of variance to the linear model. In other words, vehicle length and ground clearance have a significant impact on MechaCar prototype's MPG. 
@@ -11,6 +12,7 @@ This linear model does not predict the mpg of MechaCar prototypes effectively. T
 
 ## Summary Statistics on Suspension Coils
 All manufacturing lots:
+
 <img width="344" alt="Total Summary" src="https://user-images.githubusercontent.com/107484694/196121789-56cb5ecf-cb59-4238-a798-6791bac25f59.png">
 
 Individual lots:
